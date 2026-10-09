@@ -1,0 +1,10 @@
+jax
+jupyter
+matplotlib
+numpy
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+scikit-learn
+scipy
+torch
